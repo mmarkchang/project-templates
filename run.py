@@ -2,6 +2,7 @@
 
 import numpy as np
 import pandas as pd
+import sys
 
 sys.path.insert(0, 'src/data')
 sys.path.insert(0, 'src/analysis')
